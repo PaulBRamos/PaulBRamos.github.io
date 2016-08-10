@@ -1,0 +1,3 @@
+[submodule "ki-tiers"]
+	path = ki-tiers
+	url = https://github.com/paulbramos/ki-tiers
