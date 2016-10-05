@@ -1,3 +1,6 @@
 [submodule "ki-tiers"]
 	path = ki-tiers
 	url = https://github.com/paulbramos/ki-tiers
+[submodule "resume-game"]
+	path = resume-game
+	url = https://github.com/paulbramos/resume-game
